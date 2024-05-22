@@ -1,2 +1,2 @@
 # git-home-lab
-My private home lab for testing
+This project describes my home lab for various testing. It hold different notes and script on creating VMs.
